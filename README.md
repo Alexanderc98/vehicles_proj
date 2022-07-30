@@ -8,7 +8,7 @@
 
 **Python Version:** 3.79
 
-**Packages:** pandas, sklearn
+**Packages:** pandas, sklearn, matplotlib
 
 ## Result
 Below are the result of my time series forecast.
